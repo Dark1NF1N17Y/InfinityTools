@@ -24,7 +24,7 @@
 
 - [x] Check For Updates
 - [x] All In One App
-- [x] Premium Features 
+- [] Premium Features 
 - [ ] Unlimited Search
 - [ ] Program Linux Version
 
