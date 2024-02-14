@@ -12,7 +12,7 @@
 
 - Until Now , We Use Free WorldTime Api So You May Get Limit When We Reach 10k Searches
 > [!NOTE]
-> The Search Allows Small Mistakes In City Name
+> City Search Allows Small Mistakes In City Name
 
 > [!CAUTION]
 > Avoid Doing Mistakes In City Name , The App Might Misunderstand You
