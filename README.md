@@ -26,6 +26,7 @@
 
 - [x] Check For Updates
 - [x] All In One App
+- [ ] Support Palastine In WorldTime
 - [ ] Premium Features 
 - [ ] Unlimited Search
 - [ ] Program Linux Version
