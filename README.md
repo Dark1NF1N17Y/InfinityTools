@@ -10,6 +10,8 @@
 
 - IP Information! , WorldTime Clock! , Video Compressor!
 
+- You Can Get Your IP Info With Just One Click `Check Yourself Button`
+
 - Until Now , We Use Free WorldTime Api So You May Get Limit When We Reach 10k Searches
 > [!NOTE]
 > City Search Allows Small Mistakes In City Name
