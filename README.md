@@ -37,7 +37,9 @@
 
 ## Tool Preview
 
-![alt text](https://github.com/Dark1NF1N17Y/Video-Compressor/blob/main/Tool.png?raw=true)
+![alt text](https://github.com/Dark1NF1N17Y/WorldTimeGUI/blob/main/Preview1.PNG?raw=true)
+![alt text](https://github.com/Dark1NF1N17Y/WorldTimeGUI/blob/main/Preview2.PNG?raw=true)
+![alt text](https://github.com/Dark1NF1N17Y/WorldTimeGUI/blob/main/Preview3.PNG?raw=true)
 
 **&copy; CopyRight 1NF1N17Y 2024**
 
