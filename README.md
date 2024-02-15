@@ -2,9 +2,7 @@
 
 - All In One Tool Made In Python
 
-- Converted Into EXE File
-
-- Easy To Use!
+- Easy To Use `python InfinityTools.py`!
 
 - Press Info To Get The App Information And To Know You Have ( Latest Or Outdated Version )
 
