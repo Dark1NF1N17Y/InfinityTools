@@ -24,10 +24,12 @@
 
 - [x] Check For Updates
 - [x] All In One App
-- [ ] Support Palestine In WorldTime
+- [x] Support Palestine In WorldTime
+- [x] Python Version ( No Longer EXE )
+- [x] Program Linux Version
+- [ ] Test It On Linux
 - [ ] Premium Features 
 - [ ] Unlimited Search
-- [ ] Program Linux Version
 
 ## Tool Preview
 
