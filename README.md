@@ -4,9 +4,9 @@
 
 - Easy To Use `python InfinityTools.py`!
 
-- Press Info To Get The App Information And To Know You Have ( Latest Or Outdated Version )
+- Press Info To Get The App Information And To Know You Have ( Latest , Outdated Or PreRelease Version )
 
-- IP Information! , WorldTime Clock! , Video Compressor!
+- IP Information! , WorldTime Clock! , Video Compressor! , Jokes!
 
 - You Can Get Your IP Info With Just One Click `Check Yourself Button`
 
