@@ -27,8 +27,6 @@
 - [x] Support Palestine In WorldTime
 - [x] Python Version ( No Longer EXE )
 - [x] Program Linux Version
-- [ ] Test It On Linux
-- [ ] Premium Features 
 - [ ] Unlimited Search
 
 ## Tool Preview
