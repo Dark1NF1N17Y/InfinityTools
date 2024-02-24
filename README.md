@@ -26,7 +26,7 @@
 - [x] All In One App
 - [x] Support Palestine In WorldTime
 - [x] Python Version ( No Longer EXE )
-- [x] Program Linux Version
+- [ ] Program Linux Version
 - [ ] Unlimited Search
 - [ ] Number Guessing Game
 
