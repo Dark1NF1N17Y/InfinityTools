@@ -28,6 +28,7 @@
 - [x] Python Version ( No Longer EXE )
 - [x] Program Linux Version
 - [ ] Unlimited Search
+- [ ] Number Guessing Game
 
 ## Tool Preview
 
