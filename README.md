@@ -19,6 +19,7 @@
 
 > [!IMPORTANT]
 > When You See In Info That The App Is Outdated , Make Sure To Download The Latest One
+> Install Packages First Using `pip install -r requirements.txt` Command
 
 ## To Do List
 
