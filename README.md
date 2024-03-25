@@ -26,9 +26,10 @@
 - [x] All In One App
 - [x] Support Palestine In WorldTime
 - [x] Python Version ( No Longer EXE )
-- [ ] Program Linux Version
+- [x] Program Linux Version
 - [ ] Unlimited Search
 - [ ] Number Guessing Game
+- [ ] National ID To Data
 
 ## Tool Preview
 
