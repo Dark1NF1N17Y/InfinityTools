@@ -6,7 +6,7 @@
 
 - Press Info To Get The App Information And To Know You Have ( Latest , Outdated Or PreRelease Version )
 
-- IP Information! , WorldTime Clock! , Video Compressor! , Jokes!
+- IP Information! , WorldTime Clock! , Video Compressor! , Jokes! , Egypt NationalID Info!
 
 - You Can Get Your IP Info With Just One Click `Check Yourself Button`
 
@@ -28,9 +28,9 @@
 - [x] Support Palestine In WorldTime
 - [x] Python Version ( No Longer EXE )
 - [x] Program Linux Version
+- [x] National ID To Data
 - [ ] Unlimited Search
 - [ ] Number Guessing Game
-- [ ] National ID To Data
 
 ## Tool Preview
 
